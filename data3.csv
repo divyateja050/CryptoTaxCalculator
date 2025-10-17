@@ -1,0 +1,12 @@
+asset,type,date,amount,price
+Bitcoin,buy,2024-01-10,1,3000000
+Ethereum,buy,2024-02-15,5,250000
+Solana,buy,2024-03-30,10,7000
+Bitcoin,sell,2024-05-20,0.8,4000000
+Ethereum,sell,2024-06-25,5,200000
+Solana,sell,2024-09-10,10,9500
+Cardano,buy,2025-02-01,1000,50
+Ripple,buy,2025-04-15,5000,55
+Cardano,sell,2025-08-05,800,65
+Litecoin,buy,2024-07-19,20,6000
+Litecoin,sell,2024-10-01,20,5500

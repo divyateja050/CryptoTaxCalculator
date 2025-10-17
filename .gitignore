@@ -1,0 +1,59 @@
+# -----------------
+# Python / Django
+# -----------------
+
+# Virtual Environment
+venv/
+env/
+*.env
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Django log files
+*.log
+
+# Default SQLite database
+db.sqlite3
+*.sqlite3
+
+# -----------------
+# Node.js / React
+# -----------------
+
+# Dependencies
+node_modules/
+
+# Build directory
+build/
+dist/
+
+# Debug log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Other
+.npm
+.pnp
+.pnp.js
+
+# -----------------
+# Editor / OS
+# -----------------
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (PyCharm, WebStorm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
